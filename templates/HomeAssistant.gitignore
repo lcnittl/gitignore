@@ -2,6 +2,7 @@
 *.crt
 *.csr
 *.key
+*-key.pem
 .google.token
 .uuid
 icloud/
@@ -31,6 +32,7 @@ www
 
 # Log files
 home-assistant.log
+home-assistant.log.*
 ozw_log.txt
 
 # Development files
